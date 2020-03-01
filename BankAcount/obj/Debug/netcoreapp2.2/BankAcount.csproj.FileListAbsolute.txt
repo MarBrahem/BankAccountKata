@@ -1,0 +1,11 @@
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\bin\Debug\netcoreapp2.2\BankAcount.deps.json
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\bin\Debug\netcoreapp2.2\BankAcount.runtimeconfig.json
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\bin\Debug\netcoreapp2.2\BankAcount.runtimeconfig.dev.json
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\bin\Debug\netcoreapp2.2\BankAcount.dll
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\bin\Debug\netcoreapp2.2\BankAcount.pdb
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\obj\Debug\netcoreapp2.2\BankAcount.csproj.CoreCompileInputs.cache
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\obj\Debug\netcoreapp2.2\BankAcount.AssemblyInfoInputs.cache
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\obj\Debug\netcoreapp2.2\BankAcount.AssemblyInfo.cs
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\obj\Debug\netcoreapp2.2\BankAcount.dll
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\obj\Debug\netcoreapp2.2\BankAcount.pdb
+C:\Users\MarwaBRAHEM\source\repos\BankAcount\BankAcount\obj\Debug\netcoreapp2.2\BankAcount.csprojAssemblyReference.cache
